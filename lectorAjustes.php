@@ -29,7 +29,7 @@ $clase_conductores = new Conductores();
         foreach ($sheetData as $t) {
             $driverId = $clase_conductores->formatearDriverId($t[0]);
             $conductorId = $clase_conductores->getConductorId($driverId);
-            $idEmpresa = $_POST['idEmpresa'];
+            $idEmpresa = 85;
             if ($clase_conductores->compararTextos($table, 'FALTAS')) {
                 $mensaje[] = $clase_conductores->insertFaltas($driverId, $idEmpresa);
             }

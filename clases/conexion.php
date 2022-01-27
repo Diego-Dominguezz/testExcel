@@ -3,8 +3,8 @@
     public $db, $_conf;
 
     public function __construct(){
-      require("../assets/db.php");
-      require_once("../assets/conf.php");
+      require("./assets/db.php");
+      require_once("./assets/conf.php");
       $_conf = new Configuracion();
       $this->db = $db;
       $this->_conf = $_conf;
