@@ -1,0 +1,56 @@
+[2022-01-10 21:52:37, ::1] melher LOGEAR 
+	{"USUARIO":"MELHER"}
+DATA:{"usuario":"melher"}
+
+[2022-01-10 21:24:54, ::1] Key Innovation CREAR USUARIOS (DRIVERID: CD0030), GUARDARCONDUCTOR
+	{"NOMBRE":"DIEGO","APELLIDOP":"ASD","APELLIDOM":"DOMINGUEZ","DIRECCION":"UVA  EL GRANJERO 6406","CIUDAD":"JUAREZ","ESTADO":"CHIHUAHUA","FECHAALTA":"2021-12-29","COMPANIA_INTERNA":"0","COMPANIA":"CDSI","IDEMPRESA":"19","IMSS":"ASD","RFC":"AS","CURP":"ASD","GAFETE":"0","RATEALONE":"0.2","RATETEAM":"0.1","CUENTAELETRONICA":"ASD@ASD.COM","TELEFONO":"6563414727","TELEFONOMOVIL":"6563414727","TELEFONOAMERICANO":"6563414727"}
+DATA:{"nombre":"Diego","apellidoP":"asd","apellidoM":"Dominguez","direccion":"uva  el granjero 6406","ciudad":"juarez","estado":"chihuahua","fechaAlta":"2021-12-29","compania_interna":"0","compania":"CDSI","idEmpresa":"19","imss":"asd","rfc":"as","curp":"asd","gafete":"0","ratealone":"0.2","rateteam":"0.1","cuentaEletronica":"asd@asd.com","telefono":"6563414727","telefonoMovil":"6563414727","telefonoAmericano":"6563414727"}
+
+[2022-01-10 21:23:40, ::1] Key Innovation LOGEAR 
+	{"USUARIO":"KI_ADMIN"}
+DATA:{"usuario":"Ki_admin"}
+
+[2022-01-10 21:18:28, ::1] melher LOGEAR 
+	{"USUARIO":"MELHER"}
+DATA:{"usuario":"melher"}
+
+[2022-01-10 20:33:18, ::1] Key Innovation LOGEAR 
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"Ki_admin","remember":"on"}
+
+[2022-01-10 20:33:09, ::1]  FALLO LOGIN KI_ADMIN
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"Ki_admin","remember":"on"}
+
+[2022-01-10 20:33:03, ::1]  FALLO LOGIN KI_ADMIN
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"Ki_admin","remember":"on"}
+
+[2022-01-10 20:32:50, ::1]  FALLO LOGIN KI_ADMIN
+	{"USUARIO":"KI_ADMIN"}
+DATA:{"usuario":"ki_admin"}
+
+[2022-01-10 20:12:28, ::1] melher LOGEAR 
+	{"USUARIO":"MELHER","REMEMBER":"ON"}
+DATA:{"usuario":"MELHER","remember":"on"}
+
+[2022-01-10 20:04:29, ::1] Key Innovation CREAR NOM
+	{"DRIVERID":"HW0103"}
+DATA:{"DriverId":"HW0103"}
+
+[2022-01-10 17:58:35, ::1] Key Innovation LOGEAR 
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"ki_admin","remember":"on"}
+
+[2022-01-10 17:58:28, ::1]  FALLO LOGIN KI_ADMIN
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"ki_admin","remember":"on"}
+
+[2022-01-10 17:58:23, ::1]  FALLO LOGIN KI_ADMIN
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"ki_admin","remember":"on"}
+
+[2022-01-06 22:32:23, ::1] Key Innovation LOGEAR 
+	{"USUARIO":"KI_ADMIN","REMEMBER":"ON"}
+DATA:{"usuario":"ki_admin","remember":"on"}
+
